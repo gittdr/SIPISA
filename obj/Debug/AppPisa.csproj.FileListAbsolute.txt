@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\bin\Debug\AppPisa.exe.config
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\bin\Debug\AppPisa.exe.manifest
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\bin\Debug\AppPisa.application
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\bin\Debug\AppPisa.exe
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\bin\Debug\AppPisa.pdb
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.exe.manifest
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.application
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.exe
+C:\Users\Lenovo\source\repos\AppPisa\AppPisa\obj\Debug\AppPisa.pdb
